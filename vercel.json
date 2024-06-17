@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://flexiav.flexipaginas.net/$1"
+ }
+  ]
+}
